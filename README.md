@@ -18,6 +18,12 @@ We respect your privacy. BlipStar does not include any telemetry, analytics, or 
 - Modrinth modpack installation (`.mrpack`)
 
 
+## Discord:
+
+Join Our Discord Server:
+https://discord.gg/mvUbbAvCwC
+
+
 ---
 
 🇷🇺 **Ru: BlipStar Launcher**
@@ -48,4 +54,10 @@ We respect your privacy. BlipStar does not include any telemetry, analytics, or 
 - Расширенное отображение статуса Discord
 - Установка модпака Modrinth (`.mrpack`)
 
+
+## Сервер в Discord:
+
+Вступить в наш Discord сервер:
+
+https://discord.gg/mvUbbAvCwC
 
