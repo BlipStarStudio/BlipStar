@@ -19,6 +19,7 @@ We respect your privacy. BlipStar does not include any telemetry, analytics, or 
 - Modrinth modpack installation (`.mrpack`)
 
 
+---
 
 🇷🇺 **Ru: BlipStar Launcher**
 
