@@ -1,2 +1,9 @@
-# BlipStar
-BlipStar Launcher This is an open-source, non-tracking Minecraft launcher. ATTENTION! WE DO NOT STEAL YOUR DATA! Signing in through Microsoft is required to launch the game, and accessing Discord is for displaying activity. We do not steal your cookies or other data.
+BlipStar Launcher
+An open-source, privacy-focused Minecraft launcher.
+
+Privacy & Security
+We respect your privacy. BlipStar does not include any telemetry, analytics, or tracking.
+
+· Microsoft Login: Required solely to authenticate and launch the game. Your tokens are stored locally on your device.
+· Discord RPC: Used only to display your current game activity (you can disable it in settings).
+· No Data Collection: We do not collect, store, or transmit your personal data, cookies, or system information.
