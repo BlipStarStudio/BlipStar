@@ -14,7 +14,6 @@ We respect your privacy. BlipStar does not include any telemetry, analytics, or 
 ## Features (In Development)
 
 - Microsoft OAuth2 authentication
-- Offline accounts support
 - Discord Rich Presence
 - Modrinth modpack installation (`.mrpack`)
 
@@ -46,7 +45,6 @@ We respect your privacy. BlipStar does not include any telemetry, analytics, or 
 ---
 
 - Аутентификация Microsoft OAuth2
-- Поддержка автономных учетных записей
 - Расширенное отображение статуса Discord
 - Установка модпака Modrinth (`.mrpack`)
 
